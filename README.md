@@ -1,2 +1,2 @@
 # nodeschool ankara
-nodeschool chapter for Ankara / Turkey
+Nodeschool Ankara / Turkey
